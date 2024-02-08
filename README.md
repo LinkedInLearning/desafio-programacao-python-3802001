@@ -1,11 +1,14 @@
-# Título final do curso 
-Este é o repositório do curso de LinkedIn Learning `título do curso`. Você pode acessar o conteúdo completo no [LinkedIn Learning][lil-course-url].
+# Desafio de Programação: Python 
+
+Este é o repositório do curso de LinkedIn Learning `Desafio de Programação: Python`. Você pode acessar o conteúdo completo no [LinkedIn Learning][lil-course-url].
 
 ![Título completo do curso][lil-thumbnail-url] 
 
 Confira o arquivo Readme na ramificação principal para obter instruções e informações atualizadas. 
 
 DESCRIÇÃO DO CURSO 
+
+Este curso está integrado ao GitHub Codespaces, um ambiente desenvolvedor instantâneo na nuvem que oferece toda a funcionalidade do seu IDE favorito sem a necessidade de configurar o dispositivo local. Com o Codespaces, você pode praticar em qualquer dispositivo, a qualquer momento - tudo isso sem precisar instalar nenhuma outra ferramenta. Confira o vídeo deste curso "Como usar o GitHub Codespaces" para saber como começar. 
 
 ## Instruções 
 Este repositório contém ramificações, ou branches, para cada um dos vídeos do curso. Caso você deseje alternar para uma ramificação específica e continuar o curso a partir daí, use o menu pop-up da ramificação no GitHub ou adicione `/tree/nome_da_ramificação` ao URL para acessar diretamente a ramificação desejada. 
@@ -22,9 +25,7 @@ As ramificações são estruturadas para corresponder aos vídeos do curso. A co
 
 ### Instrutor(a)
 
-**Nome do(a) instrutor(a)**
-
-Confira meus outros cursos no [LinkedIn Learning](https://www.linkedin.com/learning/instructors/).
+**Jessica Alves Nunes Temporal**
 
 [0]: # (Replace these placeholder URLs with actual course URLs)
 [lil-course-url]: https://www.linkedin.com/learning/building-a-graphql-project-with-react-js
