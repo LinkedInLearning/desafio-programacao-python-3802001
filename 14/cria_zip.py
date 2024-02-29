@@ -12,3 +12,8 @@ def compactar(pasta, lista_extensoes, caminho_resultado):
                         os.path.join(raiz, arquivo),
                         arcname=os.path.join(caminho_relativo, arquivo)
                     )
+
+
+# comandos usados na vídeo para referência
+if __name__ == '__main__':
+    compactar('para_compactar', ['.jpg','.txt'], 'minhas-fotos.zip')
