@@ -28,8 +28,8 @@ As ramificações são estruturadas para corresponder aos vídeos do curso. A co
 **Jessica Alves Nunes Temporal**
 
 [0]: # (Replace these placeholder URLs with actual course URLs)
-[lil-course-url]: https://www.linkedin.com/learning/building-a-graphql-project-with-react-js
-[lil-thumbnail-url]: https://cdn.lynda.com/course/2875095/2875095-1615224395432-16x9.jpg
+[lil-course-url]: https://www.linkedin.com/learning/desafio-de-programacao-python/
+[lil-thumbnail-url]: https://media.licdn.com/dms/image/D4D0DAQEYJKIEVqEQpw/learning-public-crop_675_1200/0/1715683439524?e=2147483647&v=beta&t=FeVEXV_FqPtOkrkBSfX66-g5DdWeCP_rk3-SP0oX4Ts
 
 
 [1]: # (End of BP-Instruction ###############################################################################################)
